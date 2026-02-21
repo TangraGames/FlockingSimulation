@@ -1,0 +1,8 @@
+# Build output
+*.exe
+
+# Windows batch files (kept locally, not tracked)
+*.bat
+
+# VS Code workspace settings (local only)
+.vscode/

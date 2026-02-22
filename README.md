@@ -2,6 +2,8 @@
 
 A simulation of flocking behavior using [raylib](https://www.raylib.com/).
 
+![Flocking Simulation Screenshot](flocking-screenshot.png)
+
 ## Overview
 
 This project implements a Boids flocking simulation where autonomous agents follow simple local rules to create emergent, coordinated movement patterns — inspired by schools of fish, flocks of birds, or swarms of insects.
